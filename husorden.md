@@ -81,7 +81,7 @@ Det er tilladt at benytte grill på altaner og terrasser under hensyntagen til s
 
 ## Husdyr
 
-<mark>Det er tilladt at holde almindelige husdyr, såfremt de **ikke er til gene** for andre. Husdyr skal på fællesarealerne (både inde og ude) ALTID **føres** i snor eller holdes i bur – og det er derfor ikke tilladt blot at fastgøre et husdyr i en lang line. Det er ejerens ansvar at samle efterladenskaber op.</mark>
+<mark>Det er tilladt at holde almindelige husdyr, såfremt de **ikke er til gene** for andre. Husdyr skal på fællesarealerne (både inde og ude) ALTID **være** i snor eller holdes i bur. Det er ejerens ansvar at samle efterladenskaber op.</mark>
 
 Beboerne opfordres i øvrigt til at være med til at sikre, at hundeejere samler efterladenskaber op.
 
