@@ -2,7 +2,7 @@
 
 ## Affald
 
-([klik her for at se ny fælles affaldshåndtering fra 01.12.2012](http://ef-lanternen.dk.linux45.unoeuro-server.com/wp-content/uploads/F%C3%A6lles-affaldsh%C3%A5ndtering-for-E.doc))
+([klik her for at se ny fælles affaldshåndtering fra 01.12.2012](https://ef-lanternen.dk/wp-content/uploads/F%C3%A6lles-affaldsh%C3%A5ndtering-for-E.doc))
 
 Alt, der smides i affaldsskakten skal være pakket forsvarligt i en lukket pose.
 
@@ -29,7 +29,7 @@ Omkring markiser mv. henvises til vedtægternes § 20, stk 5. Markiser over egen
 
 Omkring farvevalg henvises til responsum fra Lanternens arkitekter Smith, Hammer & Lassen. Af æstetiske grunde for ejendommens hele agtes dette farvevalg fastholdt.
 
-### Barnevogne
+## Barnevogne
 
 Der henstilles til, at barnevogne og klapvogne ikke placeres på trappen eller i opgangene, men i egen bolig.
 
@@ -113,4 +113,4 @@ Private terrasser må ikke betrædes uden ejerens tilladelse. Terrasser skal hol
 
 Yderligere afskærmning må kun opføres, såfremt det er godkendt af bestyrelsen (ønskes fx yderligere blomsterkasser opsat vil bestyrelsen kræve, at de er udført i samme stil og materialer som de eksisterende, og at de holdes indenfor det areal, der er tinglyst til den enkelte lejlighed).
 
-<small>Opdateret: 12-10-2015</small>
+<small>Opdateret: 19-06-2017</small>
