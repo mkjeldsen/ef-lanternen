@@ -10,10 +10,10 @@ Der må ikke smides pizzabakker, juletræer og andre større genstande, som ikke
 
 Aviser, ugeblade og reklamer skal afleveres i de særligt opstillede papir containere. Flasker og glas skal ligeledes afleveres i de særligt opstillede flaskecontainere i det affaldsskur, der er placeret mellem Sekstanten og Kompasset. Dette må ikke gøres udenfor tidsrummet kl.9.00-22.00.
 
-**Ved storskrald henvises til nærmeste genbrugsstation:**
+**Ved storskrald henvises til nærmeste genbrugsstation:**  
 Vermlandsgade Genbrugsstation,  
 Herjedalgade 2-4,  
-2300 København S.  
+2300 København S.
 
 Overtrædelser til ovenstående vil medføre at den enkelte gøre ansvarlig for sin fejl.
 
@@ -77,7 +77,7 @@ Det er ikke tilladt at udføre skadelige handlinger som graffiti, hærværk og l
 
 Det er tilladt at benytte grill på altaner og terrasser under hensyntagen til såvel klimatiske forhold som naboer. Ved brug af kulgrill skal der tages særligt hensyn – vi anbefaler brug af gasgrill.
 
-OBS: grillen må ikke placeres for tæt på vinduerne pga. vinduernes UV filter, da der på den måde kan opstå brand.
+**OBS: grillen må ikke placeres for tæt på vinduerne pga. vinduernes UV filter, da der på den måde kan opstå brand.**
 
 ## Husdyr
 
@@ -109,7 +109,7 @@ Parkering er kun tilladt i de dertil indrettede parkerings båse i parkeringskæ
 
 ## Terrasser
 
-Private terrasser må ikke betrædes uden ejerens tilladelse. Terrasser skal holdes ryddelige. Det er ikke tilladt at opsætte afskærmning omkring sin terrasse, udover det afskærmning der er opsat fra byggeriets start.
+Private terrasser må ikke betrædes uden ejerens tilladelse. Terrasser skal holdes ryddelige. Det er **ikke tilladt at opsætte afskærmning** omkring sin terrasse, udover det afskærmning der er opsat fra byggeriets start.
 
 Yderligere afskærmning må kun opføres, såfremt det er godkendt af bestyrelsen (ønskes fx yderligere blomsterkasser opsat vil bestyrelsen kræve, at de er udført i samme stil og materialer som de eksisterende, og at de holdes indenfor det areal, der er tinglyst til den enkelte lejlighed).
 
